@@ -81,7 +81,7 @@ Install any edition of
 requirements listed above.
 
 The tools and SDKs for the target Windows platforms (UWP, 8.1, etc.) must also be selected in the installer. They can be found under the "Windows and Web Development" heading.
-
+ 
 <br/><p align="center"><img src="{{ site.baseurl }}/static/img/guide/platforms/windows/win8_installTools.png" /></p><br/>
 
 ## Project Configuration
